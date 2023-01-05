@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vyshnavi
-- 👀 I’m interested in Problem Solving, Web Development and Mobile Development
-- 🌱 I’m currently learning Backend Web Development
+- 👀 I’m interested in Problem Solving and Web Development
+- 🌱 I’m currently learning Backend Web Development using PHP
 - 💞️ I’m looking to collaborate on building Full Stack Web Applications
 - 📫 How to reach me - https://www.linkedin.com/in/sree-vyshnavi/
 
